@@ -7,7 +7,7 @@ export default function Header() {
         A <GiButterflyFlower className="text-main" />
       </div>
 
-      <div className="flex gap-4 font-semibold text-lg">
+      <div className="flex lg:gap-4 gap-2 font-semibold text-lg">
         <a href="" className="nav-item rounded px-2">
           Portfolio
         </a>
